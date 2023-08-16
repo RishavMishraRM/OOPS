@@ -55,3 +55,15 @@
 #### 1. Method Overriding
 
 --------------------------
+
+### ** Recusrsion:
+
+#### 1. Direct Recusrsion
+
+##### (a) Tail Recursion
+##### (b) Head Recursion
+##### (c) Tree Recursion
+##### (d) Nested Recursion
+
+
+#### 2. Indirect Recusrsion
