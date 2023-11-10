@@ -11,7 +11,7 @@
 ### 6. Overriding
 --------------------------
 
-### *** Inheritance: 
+### *** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Inheritance.ipynb">Inheritance:</a>
 
 #### 1. Single Inheritance
 #### 2. Multiple Inheritance
