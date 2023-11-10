@@ -28,7 +28,7 @@
 
 --------------------------
 
-### ** Encapsulation:
+### ** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Encapsulation.ipynb">Encapsulation:</a>
 
 #### 1. Public
 #### 2. Private
