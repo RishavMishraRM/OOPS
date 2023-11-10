@@ -56,9 +56,9 @@
 
 --------------------------
 
-### ** Recusrsion:
+### ** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Recursion.ipynb">Recursion:</a>
 
-#### 1. Direct Recusrsion
+#### 1. Direct Recursion
 
 ##### (a) Tail Recursion
 ##### (b) Head Recursion
@@ -66,4 +66,4 @@
 ##### (d) Nested Recursion
 
 
-#### 2. Indirect Recusrsion
+#### 2. Indirect Recursion
