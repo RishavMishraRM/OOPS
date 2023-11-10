@@ -36,7 +36,7 @@
 
 --------------------------
 
-### ** Abstraction:
+### ** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Abstraction.ipynb">Abstraction:</a>
 
 #### 1. Abstract Class
 #### 2. Interface
