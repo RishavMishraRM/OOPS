@@ -3,7 +3,7 @@
 --------------------------
 ## * Concept of OOPS
 --------------------------
-### 1. Inheritance
+### 1. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Inheritance.ipynb">Inheritance:</a>
 ### 2. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Polymorphism.ipynb">Polymorphism:</a>
 ### 3. Encapsulation
 ### 4. Abstraction
