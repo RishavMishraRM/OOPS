@@ -5,7 +5,7 @@
 --------------------------
 ### 1. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Inheritance.ipynb">Inheritance:</a>
 ### 2. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Polymorphism.ipynb">Polymorphism:</a>
-### 3. Encapsulation
+### 3. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Encapsulation.ipynb">Encapsulation:</a>
 ### 4. Abstraction
 ### 5. Overloading
 ### 6. Overriding
