@@ -67,3 +67,7 @@
 
 
 #### 2. Indirect Recursion
+
+--------------------------
+
+### ** Patterns
