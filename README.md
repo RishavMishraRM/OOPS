@@ -8,7 +8,7 @@
 ### 3. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Encapsulation.ipynb">Encapsulation:</a>
 ### 4. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Abstraction.ipynb">Abstraction:</a>
 ### 5. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overloading.ipynb">Overloading:</a>
-### 6. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overriding.ipynb">Overriding in python:</a>
+### 6. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overriding.ipynb">Overriding:</a>
 --------------------------
 
 ### *** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Inheritance.ipynb">Inheritance:</a>
