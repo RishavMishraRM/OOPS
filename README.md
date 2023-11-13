@@ -50,7 +50,7 @@
 
 --------------------------
 
-### ** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overriding.ipynb">Overriding in python:</a>
+### ** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overriding.ipynb">Overriding:</a>
 
 #### 1. Method Overriding
 
