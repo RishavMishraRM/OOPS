@@ -9,6 +9,7 @@
 ### 4. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Abstraction.ipynb">Abstraction:</a>
 ### 5. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overloading.ipynb">Overloading:</a>
 ### 6. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Overriding.ipynb">Overriding:</a>
+### 7. <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Patterns.ipynb">Patterns</a>
 --------------------------
 
 ### *** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Inheritance.ipynb">Inheritance:</a>
