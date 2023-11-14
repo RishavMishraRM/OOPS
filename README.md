@@ -70,4 +70,4 @@
 
 --------------------------
 
-### ** <a href="">Patterns</a>
+### ** <a href="https://github.com/RishavMishraRM/OOPS/blob/main/Patterns.ipynb">Patterns</a>
